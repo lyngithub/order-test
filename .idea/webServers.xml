@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a1f627ee-739e-41f1-a654-0cdc4eaa6510" name="order">
+        <fileTransfer rootFolder="/root/k8sTest/go/order_web" accessType="SFTP" host="47.96.115.141" port="22" sshConfigId="7baf04be-72d9-411b-ae9d-3c4107298b10" sshConfig="47_order">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

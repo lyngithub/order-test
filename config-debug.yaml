@@ -1,0 +1,31 @@
+#{
+#  "host":"110.40.153.208",
+#  "name":"order_web",
+#  "port":8023,
+#  "tags":["orderweb"],
+#  "goods_srv":{
+#    "name":"goods_srv"
+#  },
+#  "order_srv":{
+#    "name":"order_srv"
+#  },
+#  "inventory_srv": {
+#    "name": "inventory_srv"
+#  },
+#  "jwt":{
+#    "key":"LiYh8sq%cV@bgN*I7l1c&dueOi5U*h45"
+#  },
+#  "consul": {
+#    "host":"110.40.153.208",
+#    "port":8500
+#  }
+#}
+
+
+host: '47.96.115.141'
+port: 8848
+namespace: 'f2a76499-c17c-4cf9-be4a-92dc3470768f'
+user: 'nacos'
+password: 'nacos'
+dataid: 'order_web.json'
+group: 'dev'
